@@ -4,9 +4,9 @@
     "slug": "MealsToGo",
     "version": "0.0.1",
     "orientation": "portrait",
-    "icon": "./assets/Raphtaria.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/Raphtaria.png",
+      "image": "./assets/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -21,12 +21,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/Raphtaria.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/Raphtaria.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }
